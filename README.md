@@ -1,5 +1,5 @@
 > **Note:** This is a legacy academic project from 2023.
-> > It is preserved here to demonstrate object-oriented logic and game mechanics developed during my coursework.
+> > It is preserved here to demonstrate fundamental knowledge of programming learned during finishing this coursework.
 
 # Solar Billing - Energy Consumption Calculator
 
